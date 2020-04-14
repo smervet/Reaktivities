@@ -1,10 +1,8 @@
 
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using System;
 using Persistence;
 using Domain;
-using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
